@@ -6,4 +6,5 @@ black
 white
 orange
 blue
+green
 these are the rainbow color
