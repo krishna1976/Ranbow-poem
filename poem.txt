@@ -7,4 +7,5 @@ white
 orange
 blue
 green
+yellow
 these are the rainbow color
